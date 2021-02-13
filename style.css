@@ -1,0 +1,84 @@
+.kartinki{
+    padding-left: 50px;
+    display: flex;
+    margin-top: 30px;
+}
+
+.ford{
+    width: 500px;
+    height: 300px;
+}
+.audi{
+  padding-left: 50px;
+  width: 500px;
+  height: 300px;
+    
+}
+.bmw{
+    width: 500px;
+    height: 300px;
+}
+.box{
+    color: red;
+}
+.box2{
+    color: green;
+}
+.btn{
+    border: 1px solid black;
+    padding: 10px 20px;
+    width: 50px;
+    cursor: pointer;
+}
+.square{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
+.square2 {
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+   
+}
+.red{
+    background-color: red;
+}
+.square3{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
+.square4{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
+.square5{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
+.square6{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
+.square7{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
+.square8{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
+.square9{
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+}
+.block{
+    display: flex;
+}
